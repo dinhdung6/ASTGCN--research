@@ -1,0 +1,3 @@
+all MAE: 42.18
+all RMSE: 63.59
+all MAPE: 0.24
